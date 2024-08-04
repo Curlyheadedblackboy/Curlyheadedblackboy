@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 
+
+👋 Hi, i'm Zahir Humphries! Currently i'm a Senior Computer Science @ West Chester University Of Pennsylvania. I like to build side projects in my spaare time & practice leetcode questions to help build my Problem-Solving mindset. 
+
+
+
+
+
+
 
 <!--
 **Curlyheadedblackboy/Curlyheadedblackboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
